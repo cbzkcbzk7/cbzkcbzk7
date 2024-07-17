@@ -13,6 +13,9 @@
 ![Static Badge](https://img.shields.io/badge/Oracle-DB?style=plastic&logoSize=auto&color=%23FF0000)
 ![Static Badge](https://img.shields.io/badge/JS-frontend?style=plastic&logoSize=auto&color=%23FFD700)
 ![Static Badge](https://img.shields.io/badge/Thymeleaf-frontend?style=plastic&logoSize=auto&color=%23006400)
+![Static Badge](https://img.shields.io/badge/HTML-frontend?style=plastic&logoSize=amd&color=%23FF4500)
+![Static Badge](https://img.shields.io/badge/CSS-frontend?style=plastic&logoSize=auto&color=%231E90FF)
+
 
 
 
