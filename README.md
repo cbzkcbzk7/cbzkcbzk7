@@ -2,7 +2,7 @@
 
 
 
-<h2>My Tech Stack📚</h2>
+<h2>My tech stack📚</h2>
 
 ![Static Badge](https://img.shields.io/badge/Java-backend?style=plastic&logoSize=amd&color=%23FF4500)
 ![Static Badge](https://img.shields.io/badge/SpringFramework-backend?style=plastic&logoSize=auto)
